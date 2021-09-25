@@ -1,8 +1,6 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'dart:async' show Future;
-import 'package:flutter/services.dart' show rootBundle;
 
 void main() {
   runApp(const MyApp());
